@@ -1,0 +1,8 @@
+package cupsule;
+
+import capsule.human.HumanCapsule;
+import capsule.human.HumanNoCapsule;
+
+public class Capsule01 {
+
+}
